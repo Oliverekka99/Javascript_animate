@@ -17,3 +17,9 @@ html,body {
     height: 200px;
     border: 1px solid red;
 }
+.imagediv {
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    background-color: yellow;
+}
